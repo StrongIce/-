@@ -1,5 +1,5 @@
 $ExportFile = "C:\admins.csv"
-$SearchBase = "DC=corp,DC=ru"
+$SearchBase = "DC=contoso,DC=com"
 $AdminList = @{}
 $ToCSV = ""
  
